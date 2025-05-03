@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+* ::-webkit-scrollbar {
+  display: none;
+}
+
+
+@theme {
+  --font-sans: var(--font-montserrat);
+}
